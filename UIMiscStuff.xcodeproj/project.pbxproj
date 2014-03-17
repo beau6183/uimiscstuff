@@ -118,6 +118,8 @@
 		5B60018B18B5B2B100240E85 /* NSException+Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSException+Util.m"; sourceTree = "<group>"; };
 		5B60018C18B5B2B100240E85 /* NSString+Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Util.h"; sourceTree = "<group>"; };
 		5B60018D18B5B2B100240E85 /* NSString+Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Util.m"; sourceTree = "<group>"; };
+		5BC8A34F18BD199200F26FF9 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		5BC8A35018BD199200F26FF9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,8 @@
 		5B60011D18B5ADAC00240E85 = {
 			isa = PBXGroup;
 			children = (
+				5BC8A34F18BD199200F26FF9 /* LICENSE */,
+				5BC8A35018BD199200F26FF9 /* README.md */,
 				5B60012B18B5ADAC00240E85 /* UIMiscStuff */,
 				5B60013F18B5ADAC00240E85 /* UIMiscStuffTests */,
 				5B60012818B5ADAC00240E85 /* Frameworks */,
@@ -541,6 +545,7 @@
 				5B60014B18B5ADAC00240E85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B60014C18B5ADAC00240E85 /* Build configuration list for PBXNativeTarget "UIMiscStuffTests" */ = {
 			isa = XCConfigurationList;
@@ -549,6 +554,7 @@
 				5B60014E18B5ADAC00240E85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

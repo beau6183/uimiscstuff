@@ -8,5 +8,9 @@
 #import <Foundation/Foundation.h>
 
 @interface NSException (NSException_Util)
+/**
+ * (Static)
+ * Read the appropriate message/description/reason from the given NSException/NSError.
+ */
 +(NSString*)getMessage:(id)thing;
 @end

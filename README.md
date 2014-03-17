@@ -1,4 +1,10 @@
-uimiscstuff
+UIMiscStuff
 ===========
 
-Miscellaneous iOS UI helper classes (form builder, UIPopUpMenu with closure handling, etc)
+Miscellaneous helpers, friendlier UI components, etc.
+
+Foundation Extensions
+===========
+
+
+
